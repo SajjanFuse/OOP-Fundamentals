@@ -1,0 +1,23 @@
+2024-04-12 12:31:12,614 - INFO - Bank Account created of 123456
+2024-04-12 12:31:12,614 - INFO - Amount of500 deposited to 123456
+2024-04-12 12:31:12,614 - INFO - New balance is 1500 deposited to 123456
+2024-04-12 12:31:12,614 - INFO - Amount of200 withdrawn from 123456
+2024-04-12 12:31:12,614 - INFO - Amount of500 withdrawn from 123456
+2024-04-12 12:31:12,614 - INFO - Customer: Ram is deleted!
+2024-04-12 12:31:12,614 - INFO - Bank Account destructed of 123456
+2024-04-12 12:31:45,242 - INFO - Bank Account created of 123456
+2024-04-12 12:31:45,242 - INFO - Old balance is 1000 of 123456
+2024-04-12 12:31:45,242 - INFO - Amount of500 deposited to 123456
+2024-04-12 12:31:45,243 - INFO - New balance is 1500 deposited to 123456
+2024-04-12 12:31:45,277 - INFO - Amount of200 withdrawn from 123456
+2024-04-12 12:31:45,277 - INFO - Amount of500 withdrawn from 123456
+2024-04-12 12:31:45,277 - INFO - Customer: Ram is deleted!
+2024-04-12 12:31:45,277 - INFO - Bank Account destructed of 123456
+2024-04-12 12:32:06,824 - INFO - Bank Account created of 123456
+2024-04-12 12:32:06,825 - INFO - Old balance is 1000 of 123456
+2024-04-12 12:32:06,825 - INFO - Amount of500 deposited to 123456
+2024-04-12 12:32:06,825 - INFO - New balance is 1500 deposited to 123456
+2024-04-12 12:32:06,825 - INFO - Amount of200 withdrawn from 123456
+2024-04-12 12:32:06,825 - WARNING - 2500 is not present in 123456
+2024-04-12 12:32:06,825 - INFO - Customer: Ram is deleted!
+2024-04-12 12:32:06,825 - INFO - Bank Account destructed of 123456
