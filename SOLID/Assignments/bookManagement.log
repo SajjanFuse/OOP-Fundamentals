@@ -1,0 +1,9 @@
+2024-04-12 12:55:45,308 - INFO - Book 'The Great Gatsby' has been borrowed.
+2024-04-12 12:55:45,309 - INFO - Book '1984' has been borrowed.
+2024-04-12 12:55:45,312 - INFO - Book 'The Great Gatsby' has been returned.
+2024-04-12 12:55:45,312 - WARNING - Book with isbn 123456789 not found.
+2024-04-12 12:57:58,629 - INFO - Book 'The Great Gatsby' has been borrowed.
+2024-04-12 12:57:58,629 - INFO - Book '1984' has been borrowed.
+2024-04-12 12:57:58,631 - WARNING - Book 'The Great Gatsby' is not available for borrowing.
+2024-04-12 12:57:58,639 - INFO - Book 'The Great Gatsby' has been returned.
+2024-04-12 12:57:58,639 - WARNING - Book with isbn 123456789 not found.
