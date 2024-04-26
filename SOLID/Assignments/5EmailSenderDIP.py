@@ -17,6 +17,7 @@ class EmailSender(MessageSender):
         # Code to send an email
         print(f"Sending email to {recipient}: {subject} - {message}")
 
+
 class NotificationService:
     def __init__(self, email_sender:EmailSender):
         self.email_sender = email_sender

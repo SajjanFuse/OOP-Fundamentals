@@ -1,0 +1,2 @@
+setting1 = value1_changed
+setting2 = value2_changed
